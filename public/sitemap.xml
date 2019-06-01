@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iruknuj.github.io/iruk_diary/2019/05/hoge/</loc>
+    <loc>https://iruk.netlify.com/2019/05/hoge/</loc>
     <lastmod>2019-05-31T06:37:55+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iruknuj.github.io/iruk_diary/post/</loc>
-    <lastmod>2019-05-31T06:37:55+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iruknuj.github.io/iruk_diary/</loc>
+    <loc>https://iruk.netlify.com/post/</loc>
     <lastmod>2019-05-31T06:37:55+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iruknuj.github.io/iruk_diary/archives/</loc>
+    <loc>https://iruk.netlify.com/</loc>
+    <lastmod>2019-05-31T06:37:55+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iruknuj.github.io/iruk_diary/categories/</loc>
+    <loc>https://iruk.netlify.com/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iruknuj.github.io/iruk_diary/tags/</loc>
+    <loc>https://iruk.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iruk.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
