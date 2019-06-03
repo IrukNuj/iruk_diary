@@ -26,8 +26,8 @@ canonifyurls = true
   post = "/:year/:month/:slug/"
 
 [taxonomies]
-  tag = ["tags", "日報"]
-  category = ["categories", "日報"]
+  tag = "tags"
+  category = "categories"
   archive = "archives"
 
 [author]
@@ -113,7 +113,7 @@ canonifyurls = true
   hierarchicalCategories = true
 
   description = "ゆるゆる日記"
-  twitterimage = "https://pbs.twimg.com/profile_images/1085169606065500163/0UByd_SA_400x400.jpg"
+
   # Customization
   # Define the behavior of the sidebar
   # 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
