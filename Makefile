@@ -1,7 +1,7 @@
 .PHONY: build server public clean new
 
 HUGO := hugo
-PREFIX := $(shell date +diary/%Y-%m-%d)
+PREFIX := $(shell date +post/%Y-%m-%d)
 IMGDIR := $(shell date +static/%Y/%m/%d/)
 
 build: clean

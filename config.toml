@@ -26,8 +26,8 @@ canonifyurls = true
   post = "/:year/:month/:slug/"
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+  tag = ["tags", "日報"]
+  category = ["categories", "日報"]
   archive = "archives"
 
 [author]

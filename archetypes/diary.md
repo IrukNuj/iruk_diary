@@ -1,9 +1,9 @@
 ---
 title: "{{ replace .TranslationBaseName "-" "-" | title }}"
 date: {{ .Date }}
-categories: 日報
-tags: 日報
-description: "{{ replace .TranslationBaseName "-" "-" | title }}の日報"
+categories: "日報"
+tags: "日報"
+description: "{{ replace .TranslationBaseName "-" "-" | title }}"
 comments:       false
 showMeta:       false
 showActions:    false
