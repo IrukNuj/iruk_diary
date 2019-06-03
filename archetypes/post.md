@@ -1,15 +1,16 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "{{ replace .TranslationBaseName "-" "-" | title }}"
 date: {{ .Date }}
-categories:
-- category
-- subcategory
-tags:
-- tag1
-- tag2
-keywords:
-- tech
-#thumbnailImage: //example.com/image.jpg
+categories: "日報"
+tags: "日報"
+description: "{{ replace .TranslationBaseName "-" "-" | title }}"
+comments:       false
+showMeta:       false
+showActions:    false
+#thumbnailImage: 
 ---
+# 今日やったこと
+- 
 
-<!--more-->
+# 明日やりたいこと
+- 

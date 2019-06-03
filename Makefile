@@ -1,4 +1,4 @@
-.PHONY: build server public clean new
+.PHONY: build server public clean new edit
 
 HUGO := hugo
 PREFIX := $(shell date +post/%Y-%m-%d)
@@ -20,6 +20,9 @@ clean:
 
 new:
 	@: dummy
+
+edit:
+	code ./content/post/
 
 .DEFAULT:
 	@case $(firstword $(MAKECMDGOALS)) in \
