@@ -7,7 +7,7 @@ description: "{{ replace .TranslationBaseName "-" "-" | title }}"
 comments:       false
 showMeta:       false
 showActions:    false
-# thumbnailImage: https://pbs.twimg.com/profile_images/1085169606065500163/0UByd_SA_400x400.jpg
+banner: https://pbs.twimg.com/profile_images/1085169606065500163/0UByd_SA_400x400.jpg
 ---
 # 今日やったこと
 - 
